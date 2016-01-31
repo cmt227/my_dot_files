@@ -1,5 +1,9 @@
 execute pathogen#infect()
 
+syntax enable
+set background=dark
+colorscheme solarized
+
   " Key maps
 :nmap ; :
 
@@ -10,6 +14,7 @@ set smarttab
 set shiftwidth=4
 
 set number
+
 
 set nowrap
 

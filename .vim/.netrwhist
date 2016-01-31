@@ -1,5 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/home/carstentb/projects/rust/crypto'
 let g:netrw_dirhist_2='/home/carstentb/projects/rust/arm2/src'
 let g:netrw_dirhist_3='/var/www/html/appointments/.git'
+let g:netrw_dirhist_4='/home/carsten/my_dot_files/.vim/bundle/rust.vim'
+let g:netrw_dirhist_5='/home/carsten/my_dot_files/.vim/bundle'
+let g:netrw_dirhist_6='/home/carsten/my_dot_files/.vim'
+let g:netrw_dirhist_7='/home/carsten/my_dot_files/.vim/bundle'
+let g:netrw_dirhist_8='/home/carsten/my_dot_files/.vim'
